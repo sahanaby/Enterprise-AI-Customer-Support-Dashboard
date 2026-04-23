@@ -99,6 +99,3 @@ This project can be used in:
 **Enterprise AI Project — Customer Support Dashboard**
 AI & Data Science Portfolio Project
 
-
-**Enterprise AI Project — Customer Support Dashboard**
-AI & Data Science Student Project
